@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">CurrencyExchanger</string>
+    <string name="my_balances">My balances: </string>
+    <string name="currency_exchange">Currency Exchange</string>
+    <string name="Submit">Submit</string>
+    <string name="sell">Sell</string>
+    <string name="receive">Receive</string>
+    <string name="currency_converted">Currency converted</string>
+    <string name="currency_convert_result">You have converted %1$.2f %2$s to %3$.2f %4$s. Commission Fee: %5$.2f %6$s</string>
+    <string name="done">Done</string>
 </resources>
